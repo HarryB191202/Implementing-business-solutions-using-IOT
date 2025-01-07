@@ -152,7 +152,7 @@ if finger.get_image():
 
 ## Repository Structure
 ```
-📁 Raspberry-Pi-IoT
+📁 Implementing-business-solutions-using-IOT
 ├── 📁 Code
 │   ├── motion_sensor.py
 │   ├── prometheus_metrics.py
