@@ -1,6 +1,4 @@
-### Task 1: IoT device and Network Task requirements
-
-You are required to establish and confirm the IoT device and Network Task requirements as per the organisation requirements provided (File: ASDS - Everything IoT_IoT Device Requirements)
+# Project Task 1: IoT device and Network Task requirements
 
 # Task 1 - Researching IoT device requirements
 
