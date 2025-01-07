@@ -154,12 +154,12 @@ if finger.get_image():
 ```
 📁 Implementing-business-solutions-using-IOT
 ├── 📁 Code
-│   ├── motion_sensor.py
-│   ├── prometheus_metrics.py
-│   └── fingerprint_attendance.py
+│   ├── fingerprint_simpletest.py
+│   ├── sensor-metrics2.py
+│   └── motionCaptureVideo.py
 ├── 📁 Docs
-│   ├── network_config.png
-│   ├── sensor_setup.png
+│   ├── T1-Document IoT Device Requirements
+│   ├── T2-Install and Configure IoT Devices 
 │   └── testing_results.md
 └── README.md
 ```
