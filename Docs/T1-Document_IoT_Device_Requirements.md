@@ -367,5 +367,5 @@ You are required to:
   - IoT security requirements
 
 ### Email Screenshot:
-![Email to CEO](https://imgur.com/xmAclmi.png)
+![Email to CEO](https://imgur.com/bW4XwTJ.png)
   
