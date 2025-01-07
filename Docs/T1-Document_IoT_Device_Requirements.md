@@ -350,7 +350,7 @@ Three installation architecture requirements for the installation of IoT devices
 
 **IoT Device Application Architecture**
 
-[Architecture Diagram](https://imgur.com/xmAclmi)
+![Architecture Diagram](https://imgur.com/xmAclmi)
 
 # Task 8: Email to lodge documentation**
 
@@ -367,5 +367,5 @@ You are required to:
   - IoT security requirements
 
 ### Email Screenshot:
-[Email to CEO](https://imgur.com/xmAclmi)
+![Email to CEO](https://imgur.com/xmAclmi)
   
