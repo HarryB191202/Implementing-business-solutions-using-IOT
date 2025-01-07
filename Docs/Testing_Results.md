@@ -12,8 +12,9 @@ This section outlines the testing results for the network and IoT devices instal
 | PC               | Server                 | 192.168.1.10   | 192.168.1.128      | Success          | 4 packets transmitted successfully, each under 25ms | Y                        |
 | PC               | Raspberry Pi           | 192.168.1.10   | 192.168.137.22     | Success          | Stable internet connectivity; < 25ms | Y |
 
-**Screen Capture Placeholder:**
-- ![Ping Test](https://imgur.com/P0dp27t)
+##Ping testing the network
+###Ping Test Results:
+- ![Ping Test](https://imgur.com/P0dp27t.png)
 
 ---
 
@@ -29,8 +30,16 @@ This section outlines the testing results for the network and IoT devices instal
 | Fingerprint Sensor           | Authentication                      | PASS            | Successfully enrolled and authenticated fingerprints.                                                                    | N/A                                               |
 
 **Screen Captures:**
+##Result from Stressberry:
 - ![Stressberry Result](https://i.imgur.com/xqaQOpU.png)
+
+##SD Card confirmed to be ok using PiDoctor: 
+- ![Pidoctor Result](https://imgur.com/07HcAcC.png)
+
+##An excerpt of SystemD journal demonstrating that there is data prevalent: 
 - ![Systemd Journal Data](https://i.imgur.com/5pYJ3U4.png)
+
+##Authentication of a fingerprint demonstrating that the fingerprint sensor is functional:
 - ![Fingerprint Authentication](https://i.imgur.com/wJFYWrl.png)
 
 ---
