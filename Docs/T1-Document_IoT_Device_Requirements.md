@@ -352,7 +352,7 @@ Three installation architecture requirements for the installation of IoT devices
 
 ![Architecture Diagram](https://imgur.com/xmAclmi.png)
 
-# Task 8: Email to lodge documentation**
+# Task 8: Email to lodge documentation
 
 After documenting the IoT device requirements findings, submit the assessment on LEARN as per the organisational requirements
 
