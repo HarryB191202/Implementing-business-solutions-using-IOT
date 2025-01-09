@@ -171,4 +171,4 @@ if finger.get_image():
 ## Conclusion
 This IoT project showcases the seamless integration of hardware and software to address practical challenges in security, monitoring, and automation. It highlights best practices in deploying, monitoring, and securing IoT systems, offering insights into real-world applications.
 
-Explore the repository and dive into the code to see these solutions in action. Let the adventure begin!
+Explore the repository and dive into the code to see these solutions in action. [Let the adventure begin!](https://github.com/HarryB191202/Implementing-business-solutions-using-IOT/blob/Harry's-Special-Corner/Docs/T1-Document_IoT_Device_Requirements.md)
