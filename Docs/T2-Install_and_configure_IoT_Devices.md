@@ -159,7 +159,7 @@ picam.resolution = (1920, 1080)  # Set camera resolution
 picam.framerate = 30  # Set video framerate
 ```
 
-  You can find the entirety of the programming script [Here](Implementing-business-solutions-using-IOT/Code/MotionCaptureVideo.py)
+  You can find the entirety of the programming script [Here](Code/MotionCaptureVideo.py)
 
 
 -   **A screenshot showing data recording has been saved to Cloud Server
@@ -226,7 +226,7 @@ gt = Gauge('dht22_temperature',
           'Temperature measured by the DHT22 Sensor', ['scale'])
 ```
 
-You can find the entirety of the programming script [Here](Implementing-business-solutions-using-IOT/Code/sensor-metrics2.py)
+You can find the entirety of the programming script [Here](Code/sensor-metrics2.py)
 
 
 ### **Check the metrics target by analysing and providing:**
@@ -326,7 +326,7 @@ def get_fingerprint_detail():
         return False
 
 ```
-You can find the entirety of the programming script [Here](Implementing-business-solutions-using-IOT/Code/fingerprint_simpletest.py)
+You can find the entirety of the programming script [Here](Code/fingerprint_simpletest.py)
 
 
 ### 2. **Enrol Fingerprint**
@@ -365,4 +365,4 @@ After the devices have been installed and configured you are required to
 verify full functionality by testing the network and the IoT devices
 against the specifications provided by the organisation 
 
-To view task three, please refer to the Testing_Results.MD file, or click [Here](Implementing-business-solutions-using-IOT/Docs/Testing_Results.md)
+To view task three, please refer to the Testing_Results.MD file, or click [Here](Docs/Testing_Results.md)
