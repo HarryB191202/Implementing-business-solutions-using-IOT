@@ -159,7 +159,7 @@ picam.resolution = (1920, 1080)  # Set camera resolution
 picam.framerate = 30  # Set video framerate
 ```
 
-  You can find the entirety of the programming script [Here](Code/MotionCaptureVideo.py)
+  You can find the entirety of the programming script [Here](https://github.com/HarryB191202/Implementing-business-solutions-using-IOT/blob/Harry's-Special-Corner/Code/MotionCaptureVideo.py)
 
 
 -   **A screenshot showing data recording has been saved to Cloud Server
@@ -176,8 +176,8 @@ saved to the given directory:**
 
 
 -   **File: ICTIOT_Video. Links to the video Below (Videos have been converted to mp4 to assist with viewing):**
-    - [Video 1](Docs/ICTIOT_Video_20240620_124401.mp4)
-    - [Video 2](Docs/ICTIOT_Video_20240620_124542.mp4)
+    - [Video 1](https://github.com/HarryB191202/Implementing-business-solutions-using-IOT/blob/Harry's-Special-Corner/Docs/ICTIOT_Video_20240620_124401.mp4)
+    - [Video 2](https://github.com/HarryB191202/Implementing-business-solutions-using-IOT/blob/Harry's-Special-Corner/Docs/ICTIOT_Video_20240620_124542.mp4)
 
   ### Monitor the temperature and humidity with Raspberry Pi using Prometheus
 
@@ -226,7 +226,7 @@ gt = Gauge('dht22_temperature',
           'Temperature measured by the DHT22 Sensor', ['scale'])
 ```
 
-You can find the entirety of the programming script [Here](Code/sensor-metrics2.py)
+You can find the entirety of the programming script [Here](https://github.com/HarryB191202/Implementing-business-solutions-using-IOT/blob/Harry's-Special-Corner/Code/sensor-metrics2.py)
 
 
 ### **Check the metrics target by analysing and providing:**
@@ -326,7 +326,7 @@ def get_fingerprint_detail():
         return False
 
 ```
-You can find the entirety of the programming script [Here](Code/fingerprint_simpletest.py)
+You can find the entirety of the programming script [Here](https://github.com/HarryB191202/Implementing-business-solutions-using-IOT/blob/Harry's-Special-Corner/Code/fingerprint_simpletest.py)
 
 
 ### 2. **Enrol Fingerprint**
@@ -365,4 +365,4 @@ After the devices have been installed and configured you are required to
 verify full functionality by testing the network and the IoT devices
 against the specifications provided by the organisation 
 
-To view task three, please refer to the Testing_Results.MD file, or click [Here](Docs/Testing_Results.md)
+To view task three, please refer to the Testing_Results.MD file, or click [Here](https://github.com/HarryB191202/Implementing-business-solutions-using-IOT/blob/Harry's-Special-Corner/Docs/Testing_Results.md)
