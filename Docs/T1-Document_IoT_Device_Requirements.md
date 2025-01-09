@@ -368,4 +368,7 @@ You are required to:
 
 ### Email Screenshot:
 ![Email to CEO](https://imgur.com/bW4XwTJ.png)
+
+
+And now its time to [implement the IoT Solutions!](https://github.com/HarryB191202/Implementing-business-solutions-using-IOT/blob/Harry's-Special-Corner/Docs/T2-Install_and_configure_IoT_Devices.md) 
   
