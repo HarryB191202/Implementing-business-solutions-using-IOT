@@ -158,6 +158,8 @@ if finger.get_image():
 │   ├── sensor-metrics2.py
 │   └── motionCaptureVideo.py
 ├── 📁 Docs
+|   ├── ICTIOT_Video_20240620_124542.mp4
+|   ├── ICTIOT_Video_20240620_124401.mp4
 │   ├── T1-Document IoT Device Requirements
 │   ├── T2-Install and Configure IoT Devices 
 │   └── testing_results.md
